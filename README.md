@@ -27,23 +27,23 @@ Self-taught Software Engineer, student at Makers renowned coding bootcamp. Curre
 ## Work Experience
 
 ### Code and Jobs 
-**Freelance Technical Writer** - *Dec 2023 - Present*
+**Freelance Technical Writer** *(Dec 2023 - Present)*
 - Wrote articles that help software engineers solve technical issues and get involved in the tech community.
 - See my blog at [Code & Jobs](https://www.codenjobs.com/blogs?username=ben) and [Medium](https://medium.com/@benjaminduffield1997).
 
 ### Waterstones Cafe, London 
-**Lead Barista** - *Sept 2021– Oct 2023*
+**Lead Barista** *(Sept 2021– Oct 2023)*
 - Lead the team by training new staff members on using café equipment, contributing to a relaxed and confident group. 
 - Detail-oriented regarding coffee quality, ensuring consistent high standards while working under-pressure; resulting in increased customer retention and sales YoY. 
 - Building relationships with colleagues and customers leading to good team morale, and paramount customer satisfaction.
 
 ### Puregym, London
-**Personal Trainer** - *Dec 2020 - Sept 2021*
+**Personal Trainer** *(Dec 2020 - Sept 2021)*
 - Choreographing and delivering fun and engaging group exercise classes for our members, able to adapt classes to target the needs of the group and individuals, leading to improved member retention and reviews. 
 - Personal trainer with particular interest in nutrition, training for hypertrophy and the positive mental effects of exercise.
 
 ### Holland And Barrett, London and Stratford-Upon-Avon
-**Supervisor** - *June 2018 – July 2021*
+**Supervisor** *(June 2018 – July 2021)*
 - Quickly promoted to supervisor at Holland and Barrett, worked closely with the manager brainstorming ideas that led to our team breaking records for customer loyalty card sign-ups within the company. 
 - Consistently building relationships with regular customers, advising them on supplements, diet, and lifestyle regarding their health goals; resulting in improved customer service reviews and a happy, motivated team.
 
@@ -68,12 +68,12 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 
 ## Education
 
-**Makers Academy** - *Oct 2023 - Mar 2024*
+**Makers Academy** *(Oct 2023 - Mar 2024)*
 
 - Used pair programming to solve problems efficiently, collaborating with my peers and building relationships.
 - Supporting my peers in EQ workshop discussions, learning to work effectively in teams.
 
-**The Institute for Optimum Nutrition** - *Sep 2019 – Jun 2020* 
+**The Institute for Optimum Nutrition** *(Sep 2019 – Jun 2020)* 
 - Chemistry, Biology, Anatomy and Physiology
 - Distinction
 
