@@ -8,42 +8,30 @@ Self-taught Software Engineer, student at Makers renowned coding bootcamp. Curre
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
 | [**HTTP Server**](https://github.com/ben-dh3/http_server)            | Created to help explain GET and POST method requests in my article on HTTP. | Python. |
-|---------------------------------------------------------------------------------------------------------------------------------|
-| **Open Source Contributor** | Contributed several bug fixes and codebase additions to open source projects | Python, Django, CSS.|
-|                             |  on Github which led to improved user experience. Completed Hacktoberfest 2023,|                  |
-|                             |   an event that celebrates open source development.                         |                    |
-|---------------------------------------------------------------------------------------------------------------------------------|
-| **AWS WordPress Website**   | Built to gain experience with WordPress websites, and to consolidate knowledge | AWS Management Console,| 
-|                              |  from completing AWS Cloud Practitioner Essentials.                       | AWS Elastic Beanstalk.|   
-|---------------------------------------------------------------------------------------------------------------------------------|
-| [**Dynamic Blog Website**](https://github.com/ben-dh3/django_blog)   | Created to build an understanding of DevOps processes, deployed using     | Python, Django, PostgreSQL.| 
-|                              |  DigitalOcean Cloud services.                                          |                         |   
-|---------------------------------------------------------------------------------------------------------------------------------|
-| [**Static Portfolio Website**](https://github.com/ben-dh3/threejs_portfolio)  | Created a visually stunning and engaging UI for my portfolio using Three.js. | Javascript, React,| 
-|                              |                                                                              | Three.js.         |   
-|---------------------------------------------------------------------------------------------------------------------------------|
+| **Open Source Contributor** | Contributed several bug fixes and codebase additions to open source projects on Github which led to improved user experience. Completed Hacktoberfest 2023, an event that celebrates open source development. | Python, Django, CSS.|
+| **AWS WordPress Website**   | Built to gain experience with WordPress websites, and to consolidate knowledge from completing AWS Cloud Practitioner Essentials.| AWS Management Console, AWS Elastic Beanstalk.| 
+| [**Dynamic Blog Website**](https://github.com/ben-dh3/django_blog)   | Created to build an understanding of DevOps processes, deployed using DigitalOcean Cloud services.     | Python, Django, PostgreSQL.| 
+| [**Static Portfolio Website**](https://github.com/ben-dh3/threejs_portfolio)  | Created a visually stunning and engaging UI for my portfolio using Three.js. | Javascript, React, Three.js.| 
+
+
 
 
 ## Work Experience
 
-### Code and Jobs 
-**Freelance Technical Writer** *(Dec 2023 - Present)*
-- Wrote articles that help software engineers solve technical issues and get involved in the tech community.
+**Code and Jobs, Freelance Technical Writer** *(Dec 2023 - Present)*
+- Wrote articles to help software engineers solve technical issues and get involved in the tech community.
 - See my blog at [Code & Jobs](https://www.codenjobs.com/blogs?username=ben) and [Medium](https://medium.com/@benjaminduffield1997).
 
-### Waterstones Cafe, London 
-**Lead Barista** *(Sept 2021– Oct 2023)*
+**Waterstones Cafe, Lead Barista** *(Sept 2021– Oct 2023)*
 - Lead the team by training new staff members on using café equipment, contributing to a relaxed and confident group. 
 - Detail-oriented regarding coffee quality, ensuring consistent high standards while working under-pressure; resulting in increased customer retention and sales YoY. 
 - Building relationships with colleagues and customers leading to good team morale, and paramount customer satisfaction.
 
-### Puregym, London
-**Personal Trainer** *(Dec 2020 - Sept 2021)*
+**Puregym, Personal Trainer** *(Dec 2020 - Sept 2021)*
 - Choreographing and delivering fun and engaging group exercise classes for our members, able to adapt classes to target the needs of the group and individuals, leading to improved member retention and reviews. 
 - Personal trainer with particular interest in nutrition, training for hypertrophy and the positive mental effects of exercise.
 
-### Holland And Barrett, London and Stratford-Upon-Avon
-**Supervisor** *(June 2018 – July 2021)*
+**Holland And Barrett, Supervisor** *(June 2018 – July 2021)*
 - Quickly promoted to supervisor at Holland and Barrett, worked closely with the manager brainstorming ideas that led to our team breaking records for customer loyalty card sign-ups within the company. 
 - Consistently building relationships with regular customers, advising them on supplements, diet, and lifestyle regarding their health goals; resulting in improved customer service reviews and a happy, motivated team.
 
