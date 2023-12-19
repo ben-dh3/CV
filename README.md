@@ -14,9 +14,6 @@ Self-taught Software Engineer, student at Makers renowned coding bootcamp. Curre
 | [**Dynamic Blog Website**](https://github.com/ben-dh3/django_blog)   | Created to gain an understanding of DevOps processes, deployed using DigitalOcean Cloud services.     | Python, Django, PostgreSQL.| 
 | [**Static Portfolio Website**](https://github.com/ben-dh3/threejs_portfolio)  | Created a visually stunning and engaging UI for my portfolio using Three.js. | Javascript, React, Three.js.| 
 
-
-https://github.com/ben-dh3/battleships_game
-
 ## Work Experience
 
 **Code and Jobs, Freelance Technical Writer** *(Dec 2023 - Present)*
