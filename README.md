@@ -10,7 +10,7 @@ Self-taught Software Engineer, student at Makers renowned coding bootcamp. Curre
 | [**HTTP Server**](https://github.com/ben-dh3/http_server)            | Created to help explain GET and POST method requests in my article on HTTP. | Python. |
 | **Open Source Contributor** | Contributed several bug fixes and codebase additions to open source projects on Github which led to improved user experience. Completed Hacktoberfest 2023, an event that celebrates open source development. | Python, Django, CSS.|
 | **AWS WordPress Website**   | Built to gain experience with WordPress websites, and to consolidate knowledge from completing AWS Cloud Practitioner Essentials.| AWS Management Console, AWS Elastic Beanstalk.| 
-| [**Dynamic Blog Website**](https://github.com/ben-dh3/django_blog)   | Created to build an understanding of DevOps processes, deployed using DigitalOcean Cloud services.     | Python, Django, PostgreSQL.| 
+| [**Dynamic Blog Website**](https://github.com/ben-dh3/django_blog)   | Created to gain an understanding of DevOps processes, deployed using DigitalOcean Cloud services.     | Python, Django, PostgreSQL.| 
 | [**Static Portfolio Website**](https://github.com/ben-dh3/threejs_portfolio)  | Created a visually stunning and engaging UI for my portfolio using Three.js. | Javascript, React, Three.js.| 
 
 
