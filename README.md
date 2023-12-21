@@ -7,6 +7,7 @@ Self-taught Software Engineer, student at Makers renowned coding bootcamp. Curre
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**Chitter App**](https://github.com/ben-dh3/chitter_app) | Created to illustrate learning on test driven development, postgreSQL, security. | Python, Tailwind CSS Flask, Flask-Mail, PostgreSQL. |
 | [**HTTP Server**](https://github.com/ben-dh3/http_server)            | Created to help explain GET and POST method requests in my article on HTTP. | Python. |
 | [**Battleships Game**](https://github.com/ben-dh3/battleships_game)            | Created to develop skills in test driven development and programming terminal user-interfaces. | Python. |
 | **Open Source Contributor** | Contributed several bug fixes and codebase additions to open source projects on Github which led to improved user experience. Completed Hacktoberfest 2023, an event that celebrates open source development. | Python, Django, CSS.|
