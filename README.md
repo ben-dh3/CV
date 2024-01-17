@@ -44,7 +44,8 @@ I honed my ability to communicate technical ideas to the public while working as
 
 **Teamwork and Organisation**
 
-During my time working in a cabinet making warehouse as part of the delivery team, I oversaw a changeover of staff and was responsible for organising a new multi-cultural team of freelancers and employees. I was a bridge of communication between the staff and the manager with whom I worked closely. Successfully contributed to positive team morale while working long days and 90 hour weeks.
+During my time working in a cabinet making warehouse as part of the delivery team, I oversaw a changeover of staff and was responsible for organising a new multi-cultural team of freelancers and employees. I was a bridge of communication between the staff and the manager with whom I worked closely. Successfully contributed to positive team morale while working long days and 90 hour weeks. As a software engineer I use my teamwork skills while engaging in Agile methodologies and ceremonies to successfully plan and develop engineering projects to user specifications. I regularly apply pair programming where effective, to solve problems efficiently while supporting my peers.
+
 
 **Problem Solving**
 
@@ -52,7 +53,7 @@ Planning and choreographing exercise classes for mixed age groups of between 10 
 
 **Organisation**
 
-As part of the management team at Waterstones Cafe I was responsible for delegating tasks and organising the team. Motivating team by including them in management decisions, we decided together about product changes and furniture layout to support sales, contributing to an increase in sales YOY.
+As part of the management team at Waterstones Cafe I was responsible for delegating tasks and organising the team. Motivating them by including them in management decisions, we decided together about product changes and furniture layout to support sales, contributing to an increase in sales YOY.
 
 ## Education
 
