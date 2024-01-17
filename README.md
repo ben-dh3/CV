@@ -1,6 +1,6 @@
 ## Ben Duffield-Harding
 
-Self-taught Software Engineer and student at Makers coding bootcamp. Currently freelancing as a Technical Writer, using my technical and problem solving skills to help other people solve their issues.
+Self-taught Software Engineer and student at Makers Academy. Currently freelancing as a Technical Writer, using my technical and problem solving skills to help other people solve their issues.
 
 ## Projects
 
