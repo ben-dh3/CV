@@ -58,9 +58,8 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 ## Education
 
 **Makers Academy** *(Oct 2023 - Mar 2024)*
-
-- Used pair programming to solve problems efficiently, collaborating with my peers and building relationships.
-- Supporting my peers in EQ workshop discussions, learning to work effectively in teams.
+- Utilised Agile methodologies and ceremonies to successfully plan and develop an engineering project to user specifications. 
+- Applied pair programming where effective, to solve problems efficiently while supporting my peers.
 
 **The Institute for Optimum Nutrition** *(Sep 2019 – Jun 2020)* 
 - Chemistry, Biology, Anatomy and Physiology
