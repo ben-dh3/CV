@@ -49,7 +49,7 @@ During my time working in a cabinet making warehouse as part of the delivery tea
 
 **Problem Solving**
 
-Planning and choreographing exercise classes for mixed age groups of between 10 and 20 people. Adapting exercises to suit attendees with varying requirements. I use my problem solving skills as a software engineer daily, building projects and contributing to open source software.
+When working as a personal trainer I was responsible for planning and choreographing exercise classes for mixed age groups of between 10 and 20 people; adapting exercises to suit attendees with varying requirements. I use my problem solving skills as a software engineer daily, building projects and contributing to open source software.
 
 **Organisation**
 
