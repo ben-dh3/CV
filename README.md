@@ -67,7 +67,7 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 
 ## Hobbies
 
-- Travelling(Austalia, Thailand, Vietnam, Laos, Cambodia, Bali, Phillipines)
-- Painting (oils, digital art (P5.js, GLSL))
+- Painting (oils, digital art (P5.js, GLSL, Three.js, Blender))
 - Reading (philosophy, psychology)
+- Travelling(Austalia, Thailand, Vietnam, Laos, Cambodia, Bali, Phillipines)
 - Improv and Clowning
