@@ -1,6 +1,6 @@
 ## Ben Duffield-Harding
 
-Self-taught Software Engineer, student at Makers renowned coding bootcamp. Currently freelancing as a Technical Writer, using my technical and problem solving skills to help other people solve their issues. 
+Self-taught Software Engineer and student at Makers coding bootcamp. Currently freelancing as a Technical Writer, using my technical and problem solving skills to help other people solve their issues.
 
 ## Projects
 
@@ -8,6 +8,7 @@ Self-taught Software Engineer, student at Makers renowned coding bootcamp. Curre
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
 | [**Chitter App**](https://github.com/ben-dh3/chitter_app) | Created to illustrate learning on test driven development, postgreSQL, security. | Python, Tailwind CSS Flask, Flask-Mail, PostgreSQL. |
+| [**Weather API Server**](https://github.com/ben-dh3/weather_api_server) | Made for the purpose of understanding how to fetch and manipulate data from an API, and further my knowledge of building web servers with Express.js | Javascript, Express.js. |
 | [**HTTP Server**](https://github.com/ben-dh3/http_server)            | Created to help explain GET and POST method requests in my article on HTTP. | Python. |
 | [**Battleships Game**](https://github.com/ben-dh3/battleships_game)            | Created to develop skills in test driven development and programming terminal user-interfaces. | Python. |
 | **Open Source Contributor** | Contributed several bug fixes and codebase additions to open source projects on Github which led to improved user experience. Completed Hacktoberfest 2023, an event that celebrates open source development. | Python, Django, CSS.|
