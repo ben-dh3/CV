@@ -1,6 +1,6 @@
 ## Ben Duffield-Harding
 
-Self-taught Software Engineer and student at Makers Academy. Currently freelancing as a Technical Writer, using my technical and problem solving skills to help other people solve their issues.
+Self-taught Software Engineer and student at Makers Academy specialising in building web applications with test driven development, CI/CD and Agile methodologies. My extensive experience in retail management has helped hone my communication skills and customer centric values that I utilise when building team engineering projects. Currently freelancing as a Technical Writer, I use my problem solving skills to help others solve their technical issues.
 
 ## Projects
 
