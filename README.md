@@ -1,14 +1,18 @@
 ## Ben Duffield-Harding
 
-Self-taught Software Engineer and student at Makers Academy specialising in building web applications with test driven development, CI/CD and Agile methodologies. My extensive experience in retail management has helped hone my communication skills and customer centric values that I utilise when building team engineering projects. Currently freelancing as a Technical Writer, I use my problem solving skills to help others solve their technical issues.
+Self-taught Software Engineer and Makers Academy Alumnus specialising in building web applications with test driven development, CI/CD and Agile methodologies. My extensive experience in retail management has helped hone my communication skills and customer centric values that I utilise when building team engineering projects. Currently freelancing as a Technical Writer, I use my problem solving skills to help others solve their coding issues.
 
 ## Projects
 
-
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
-| [**Chitter App**](https://github.com/ben-dh3/chitter_app) | Created to illustrate learning on test driven development, postgreSQL, security. | Python, Tailwind CSS Flask, Flask-Mail, PostgreSQL. |
-| [**Weather API Server**](https://github.com/ben-dh3/weather_api_server) | Made for the purpose of understanding how to fetch and manipulate data from an API, and further my knowledge of building web servers with Express.js | Javascript, Express.js. |
+| [**RecipEasy (Makers Final Project)**](https://github.com/kawrou/RecipEasy-recipe-manager) | Using Agile teams, we designed and created a web application that takes a URL to a recipe and scrapes the recipe data from the page; a recipe page is populated in the app which can be modified, saved, and stored in one place. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
+| [**Mobile Acebook**](https://github.com/mattwsheps/swiftui-engineering-project) | Created a Facebook clone in an Agile team using SwiftUI, features include: create an account, create a post, upload and display a photo in the feed page.| Swift, SwiftUI, Cloudinary.|
+| [**SwiftUI Pokedex Mobile App**](https://github.com/ben-dh3/pokedex_swiftui) | Designed an interactive mobile app using SwiftUI that fetches and manipulates data from an API.| Swift, SwiftUI.|
+| [**Pokedex React App**](https://github.com/ben-dh3/pokedex_app) | Designed a React app that fetches and manipulates data from an API.| React, Bootstrap.|
+| [**Acebook App**](https://github.com/Pacia30/acebook-team-water) | Created a Facebook clone in an Agile team; features include: create an account, write posts with likes and comments, and send & receive friend requests.| MongoDB, Express.js, React, Node.js.|
+| [**Chitter App**](https://github.com/ben-dh3/chitter_app) | Created a Twitter clone using test driven development and implemented continuous integration with Github actions. | Python, Tailwind CSS Flask, Flask-Mail, PostgreSQL. |
+| [**Weather API Server**](https://github.com/ben-dh3/weather_api_server) | Made for the purpose of understanding how to fetch and manipulate data from an API, and further my knowledge of building web servers with Express.js. | Javascript, Express.js. |
 | [**HTTP Server**](https://github.com/ben-dh3/http_server)            | Created to help explain GET and POST method requests in my article on HTTP. | Python. |
 | [**Battleships Game**](https://github.com/ben-dh3/battleships_game)            | Created to develop skills in test driven development and programming terminal user-interfaces. | Python. |
 | **Open Source Contributor** | Contributed several bug fixes and codebase additions to open source projects on Github which led to improved user experience. Completed Hacktoberfest 2023, an event that celebrates open source development. | Python, Django, CSS.|
@@ -35,7 +39,6 @@ Self-taught Software Engineer and student at Makers Academy specialising in buil
 - Quickly promoted to supervisor at Holland and Barrett, worked closely with the manager brainstorming ideas that led to our team breaking records for customer loyalty card sign-ups within the company. 
 - Consistently building relationships with regular customers, advising them on supplements, diet, and lifestyle regarding their health goals; resulting in improved customer service reviews and a happy, motivated team.
 
-
 ## Skills
 
 **Communication**
@@ -45,7 +48,6 @@ I honed my ability to communicate technical ideas to the public while working as
 **Teamwork and Organisation**
 
 During my time working in a cabinet making warehouse as part of the delivery team, I oversaw a changeover of staff and was responsible for organising a new multi-cultural team of freelancers and employees. I was a bridge of communication between the staff and the manager with whom I worked closely. Successfully contributed to positive team morale while working long days and 90 hour weeks. As a software engineer I use my teamwork skills while engaging in Agile methodologies and ceremonies to successfully plan and develop engineering projects to user specifications. I regularly apply pair programming where effective, to solve problems efficiently while supporting my peers.
-
 
 **Problem Solving**
 
@@ -58,8 +60,8 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 ## Education
 
 **Makers Academy** *(Oct 2023 - Mar 2024)*
-- Utilised Agile methodologies and ceremonies to successfully plan and develop an engineering project to user specifications. 
-- Applied pair programming where effective, to solve problems efficiently while supporting my peers.
+- As a leader in Agile teams I contributed to a culture valuing inclusivity, individuals explained their work to the group in order to share knowledge throughout the team and I utilised my organisation and time management skills to ensure meetings were concise.
+- Took responsibility for backend development of databases including MongoDB and PostgreSQL, and supported my peers to utilise the Git workflow; I successfully explained technical concepts to the team resulting in effective use of Agile methodologies.
 
 **The Institute for Optimum Nutrition** *(Sep 2019 – Jun 2020)* 
 - Chemistry, Biology, Anatomy and Physiology
