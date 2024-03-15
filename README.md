@@ -23,21 +23,23 @@ Self-taught Software Engineer and Makers Academy Alumnus specialising in buildin
 ## Work Experience
 
 **Code and Jobs, Freelance Technical Writer** *(Dec 2023 - Present)*
-- Wrote articles to help software engineers solve technical issues and get involved in the tech community.
-- See my blog at [Code & Jobs](https://www.codenjobs.com/blogs?username=ben) and [Medium](https://medium.com/@benjaminduffield1997).
+- Created articles to assist software engineers in resolving technical challenges and participating in tech.
+- Actively interacted with [Medium](https://medium.com/@benjaminduffield1997) and [Code & Jobs](https://www.codenjobs.com/blogs?username=ben) readers to foster connections within the tech field.
 
 **Waterstones Cafe, Lead Barista** *(Sept 2021– Oct 2023)*
-- Lead the team by training new staff members on using café equipment, contributing to a relaxed and confident group. 
-- Detail-oriented regarding coffee quality, ensuring consistent high standards while working under-pressure; resulting in increased customer retention and sales YoY. 
-- Building relationships with colleagues and customers leading to good team morale, and paramount customer satisfaction.
+- Trained new staff on café equipment to foster a relaxed and confident team atmosphere.
+- Maintained high coffee quality standards under pressure, resulting in increased customer retention and sales YoY.
+- Fostered good team morale and enhanced customer satisfaction through strong relationships with colleagues and customers.
 
 **Puregym, Personal Trainer** *(Dec 2020 - Sept 2021)*
-- Choreographing and delivering fun and engaging group exercise classes for our members, able to adapt classes to target the needs of the group and individuals, leading to improved member retention and reviews. 
-- Personal trainer with particular interest in nutrition, training for hypertrophy and the positive mental effects of exercise.
+- Planned and choreographed exercise classes for mixed-age groups of 10-20 people, adapting exercises to accommodate diverse participant needs.
+- Choreographed and delivered dynamic group exercise classes tailored to both group and individual requirements, enhancing member retention and satisfaction.
+- Passionate personal trainer specializing in nutrition, hypertrophy training, and the psychological benefits of physical activity.
 
 **Holland And Barrett, Supervisor** *(June 2018 – July 2021)*
-- Quickly promoted to supervisor at Holland and Barrett, worked closely with the manager brainstorming ideas that led to our team breaking records for customer loyalty card sign-ups within the company. 
-- Consistently building relationships with regular customers, advising them on supplements, diet, and lifestyle regarding their health goals; resulting in improved customer service reviews and a happy, motivated team.
+- Quickly promoted to supervisor at Holland and Barrett, worked closely with the manager brainstorming ideas that led to our team breaking records for customer loyalty card sign-ups within the company.
+- Communicating technical concepts to customers effectively, following a process of first principles when advising them on products and lifestyle changes that will solve their health issues.
+- My approachability and sensitivity contributed to an increase in loyal returning customers.
 
 ## Skills
 
@@ -45,7 +47,7 @@ Self-taught Software Engineer and Makers Academy Alumnus specialising in buildin
 
 I honed my ability to communicate technical ideas to the public while working as a supervisor at Holland and Barrett. The customer interaction required sensitivity to listen to the customers symptoms and describe a set of products and lifstyle changes that will improve their condition, while taking any contraindications into account. This developed my problem solving skills and my ability to communicate technical anatomy and physiology to the general public. I use my skills to write articles for [Code & Jobs](https://www.codenjobs.com/blogs?username=ben) and [Medium](https://medium.com/@benjaminduffield1997) publications. 
 
-**Teamwork and Organisation**
+**Teamwork**
 
 During my time working in a cabinet making warehouse as part of the delivery team, I oversaw a changeover of staff and was responsible for organising a new multi-cultural team of freelancers and employees. I was a bridge of communication between the staff and the manager with whom I worked closely. Successfully contributed to positive team morale while working long days and 90 hour weeks. As a software engineer I use my teamwork skills while engaging in Agile methodologies and ceremonies to successfully plan and develop engineering projects to user specifications. I regularly apply pair programming where effective, to solve problems efficiently while supporting my peers.
 
@@ -62,6 +64,9 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 **Makers Academy** *(Oct 2023 - Mar 2024)*
 - As a leader in Agile teams I contributed to a culture valuing inclusivity, individuals explained their work to the group in order to share knowledge throughout the team and I utilised my organisation and time management skills to ensure meetings were concise.
 - Took responsibility for backend development of databases including MongoDB and PostgreSQL, and supported my peers to utilise the Git workflow; I successfully explained technical concepts to the team resulting in effective use of Agile methodologies.
+- Planned SwiftUI views on Figma before building an interactive mobile Facebook clone using Swift and SwiftUI.
+- Built full-stack web applications using the MERN stack and Flask, PostgreSQL, Python, regularly using pair programming when appropriate.
+- Worked with Jest and React Testing Library to test-drive full-stack web applications before implementing CICD using Github actions.
 
 **The Institute for Optimum Nutrition** *(Sep 2019 – Jun 2020)* 
 - Chemistry, Biology, Anatomy and Physiology
