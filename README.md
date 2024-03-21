@@ -1,16 +1,16 @@
 ## Ben Duffield-Harding
 
-Self-taught Software Engineer and Makers Academy Alumnus specialising in building web applications with test driven development, CI/CD and Agile methodologies. My extensive experience in retail management has helped hone my communication skills and customer centric values that I utilise when building team engineering projects. Currently freelancing as a Technical Writer, I use my problem solving skills to help others solve their coding issues.
+Software Engineer and Makers Academy alumnus specialising in building full-stack web applications with test-driven development, CI/CD and Agile methodologies. Coming from a background in customer service and personal training, I thrive when working in teams and have a strong ability to communicate technical ideas. I am currently seeking a permanent position which will allow me to further improve my Agile skills.
 
 ## Projects
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
-| [**RecipEasy (Makers Final Project)**](https://github.com/kawrou/RecipEasy-recipe-manager) | Using Agile teams, we designed and created a web application that takes a URL to a recipe and scrapes the recipe data from the page; a recipe page is populated in the app which can be modified, saved, and stored in one place. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
+| [**RecipEasy (Makers Final Project)**](https://github.com/kawrou/RecipEasy-recipe-manager) | Created a web app using Agile teams that takes a URL to a recipe and scrapes the recipe data from the  web page, this populates a recipe form in the app which can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
 | [**Mobile Acebook**](https://github.com/mattwsheps/swiftui-engineering-project) | Created a Facebook clone in an Agile team using SwiftUI, features include: create an account, create a post, upload and display a photo in the feed page.| Swift, SwiftUI, Cloudinary.|
 | [**SwiftUI Pokedex Mobile App**](https://github.com/ben-dh3/pokedex_swiftui) | Designed an interactive mobile app using SwiftUI that fetches and manipulates data from an API.| Swift, SwiftUI.|
 | [**Pokedex React App**](https://github.com/ben-dh3/pokedex_app) | Designed a React app that fetches and manipulates data from an API.| React, Bootstrap.|
-| [**Acebook App**](https://github.com/Pacia30/acebook-team-water) | Created a Facebook clone in an Agile team; features include: create an account, write posts with likes and comments, and send & receive friend requests.| MongoDB, Express.js, React, Node.js.|
+| [**Acebook App**](https://github.com/Pacia30/acebook-team-water) | Created a Facebook clone in an Agile team. Features include: create an account, write posts with likes and comments, send & receive friend requests. | MongoDB, Express.js, React, Node.js.|
 | [**Chitter App**](https://github.com/ben-dh3/chitter_app) | Created a Twitter clone using test driven development and implemented continuous integration with Github actions. | Python, Tailwind CSS Flask, Flask-Mail, PostgreSQL. |
 | [**Weather API Server**](https://github.com/ben-dh3/weather_api_server) | Made for the purpose of understanding how to fetch and manipulate data from an API, and further my knowledge of building web servers with Express.js. | Javascript, Express.js. |
 | [**HTTP Server**](https://github.com/ben-dh3/http_server)            | Created to help explain GET and POST method requests in my article on HTTP. | Python. |
@@ -62,11 +62,13 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 ## Education
 
 **Makers Academy** *(Oct 2023 - Mar 2024)*
-- As a leader in Agile teams I contributed to a culture valuing inclusivity, individuals explained their work to the group in order to share knowledge throughout the team and I utilised my organisation and time management skills to ensure meetings were concise.
-- Took responsibility for backend development of databases including MongoDB and PostgreSQL, and supported my peers to utilise the Git workflow; I successfully explained technical concepts to the team resulting in effective use of Agile methodologies.
-- Planned SwiftUI views on Figma before building an interactive mobile Facebook clone using Swift and SwiftUI.
-- Built full-stack web applications using the MERN stack and Flask, PostgreSQL, Python, regularly using pair programming when appropriate.
-- Worked with Jest and React Testing Library to test-drive full-stack web applications before implementing CICD using Github actions.
+- Developed a strong foundation in Python, Javascript, and Swift.
+- Collaborated on several group projects in Agile teams, contributing to a culture of inclusivity by introducing discussions and feedback on individual code contributions ensuring knowledge is shared across the team.
+- Took responsibility for backend development of MongoDB and PostgreSQL databases, successfully pairing with teammates specialising in other areas of the project resulting in an efficient Agile workflow.
+- Collaboratively planned SwiftUI views for a mobile Facebook clone on Figma, before creating the interactive application using Swift and SwiftUI in Agile teams.
+- Utilised test-driven development using Jest and React Testing Library when creating full-stack web applications with the MERN stack.
+- When working on engineering projects in Agile teams we utilised pair programming effectively by pairing individuals that had specialised on different layers of the project. For example, when building our recipe web scraping app, I had built the backend and paired with my teammate who had worked on the frontend, together we successfully connected the two.
+- In a solo project I created a 'penpal' social media app designed with a focus on bringing people together from around the world. I used test-driven development with Pytest and Playwright to create a web application using Peewee, PostgreSQL, and Python, before implementing CICD using Github actions.
 
 **The Institute for Optimum Nutrition** *(Sep 2019 – Jun 2020)* 
 - Chemistry, Biology, Anatomy and Physiology
