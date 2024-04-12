@@ -22,6 +22,11 @@ Software Engineer and Makers Academy alumnus specialising in building full-stack
 
 ## Work Experience
 
+**Freelance Web Developer** *(Mar 2024 - Present)*
+- Solidity, Javascript, React, Tailwind, Next.js and Figma.
+- Wrote interactive smart contracts and created ERC-20 tokens on the Base L2 blockchain.
+- Designed websites on Figma and deployed using Next.js for clients.
+
 **Code and Jobs, Freelance Technical Writer** *(Dec 2023 - Present)*
 - Created articles to assist software engineers in resolving technical challenges and participating in tech.
 - Actively interacted with [Medium](https://medium.com/@benjaminduffield1997) and [Code & Jobs](https://www.codenjobs.com/blogs?username=ben) readers to foster connections within the tech field.
@@ -76,7 +81,7 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 
 ## Hobbies
 
+- Running
 - Painting (oils, digital art (P5.js, GLSL, Three.js, Blender))
 - Reading (philosophy, psychology)
 - Travelling(Austalia, Thailand, Vietnam, Laos, Cambodia, Bali, Phillipines)
-- Improv and Clowning
