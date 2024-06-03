@@ -118,6 +118,9 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 
 
 🏃‍♂️ Running
+<br></br>
 🖌️ Painting (oils, digital art (P5.js, GLSL, Three.js, Blender))
+<br></br>
 📚 Reading (philosophy, psychology)
+<br></br>
 🗺️ Travelling(Australia, Thailand, Vietnam, Laos, Cambodia, Bali, Philippines)
