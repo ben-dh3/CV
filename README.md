@@ -84,13 +84,13 @@ During my time working in a cabinet making warehouse as part of the delivery tea
 **Problem Solving**
 
 
-When working as a personal trainer I was responsible for planning and choreographing exercise classes for mixed age groups of between 10 and 20 people; adapting exercises to suit attendees with varying requirements. I use my problem solving skills as a software engineer daily, building projects and contributing to open source software.
+When working as a personal trainer I was responsible for planning and choreographing exercise classes for mixed age groups of between 10 and 20 people; adapting exercises to suit attendees with varying requirements. I use my problem solving skills as a software engineer daily, building projects and contributing to open source software. During my time at Makers Academy I have thrived when making the user the focus of my solution, building features that impact user experience.
 
 
 **Organisation**
 
 
-As part of the management team at Waterstones Cafe I was responsible for delegating tasks and organising the team. Motivating them by including them in management decisions, we decided together about product changes and furniture layout to support sales, contributing to an increase in sales YOY.
+As part of the management team at Waterstones Cafe I was responsible for delegating tasks and organising the team. Motivating them by including them in management decisions, we decided together about product changes and furniture layout to support sales, contributing to an increase in sales YOY. When working in Agile engineering teams at Makers, I introduced discussions and encouraged commenting in our code to ensure knowledge is being shared throughout the team.
 
 
 ## Education
