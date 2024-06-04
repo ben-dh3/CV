@@ -97,14 +97,10 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 
 
 **Makers Academy** *(Oct 2023 - Mar 2024)*
-- Developed a strong foundation in Python, Javascript, and Swift.
-- Collaborated on several group projects in Agile teams, contributing to a culture of inclusivity by introducing discussions and feedback on individual code contributions ensuring knowledge is shared across the team.
-- Took responsibility for backend development of MongoDB and PostgreSQL databases, successfully pairing with teammates specialising in other areas of the project resulting in an efficient Agile workflow.
-- Collaboratively planned SwiftUI views for a mobile Facebook clone on Figma, before creating the interactive application using Swift and SwiftUI in Agile teams.
+- Collaboratively planned SwiftUI views for a mobile Facebook clone on Figma, before creating an interactive application using Swift and SwiftUI in Agile teams.
 - Utilised test-driven development using Jest and React Testing Library when creating full-stack web applications with the MERN stack.
 - When working on engineering projects in Agile teams we utilised pair programming effectively by pairing individuals that had specialised on different layers of the project. For example, when building our recipe web scraping app, I had built the backend and paired with my teammate who had worked on the frontend, together we successfully connected the two.
 - In a solo project I created a 'penpal' social media app designed with a focus on bringing people together from around the world. I used test-driven development with Pytest and Playwright to create a web application using Peewee, PostgreSQL, and Python, before implementing CI/CD using Github actions.
-
 
 **The Institute for Optimum Nutrition** *(Sep 2019 – Jun 2020)* 
 - Chemistry, Biology, Anatomy and Physiology
@@ -117,10 +113,11 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 ## Hobbies
 
 
-🏃‍♂️ Running
+🏃‍♂️ I like competing in running events. Most recently completing the Wolf Run, a 10km trail run over obstacles and through rivers. Next one is the Bournemouth half marathon in October.
 <br></br>
-🖌️ Painting (oils, digital art (P5.js, GLSL, Three.js, Blender))
+🖌️ I love to express myself through my artwork. I paint with oils or watercolours - portraits, but also experimenting with effects created between oil and water. Fascinated by patterns found in nature, I have been experimenting with digital art - creating art with code written in P5.js, GLSL, Three.js, Blender.
 <br></br>
-📚 Reading (philosophy, psychology)
+📚 Passionate reader. I read sci-fi and fantasy. I explore my interests in philosophy and psychology mainly through audiobooks and writing.
 <br></br>
-🗺️ Travelling(Australia, Thailand, Vietnam, Laos, Cambodia, Bali, Philippines)
+🗺️ I have a strong drive for adventure. I have spent two years travelling and working in Australia, as well as spending time exploring Thailand, Vietnam, Laos, Cambodia, Bali, Philippines.
+
