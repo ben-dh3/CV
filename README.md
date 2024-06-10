@@ -9,7 +9,7 @@ Software Engineer and Makers Academy alumnus specialising in building full-stack
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
-| [**Streetwear Website**](https://streetware.netlify.app/) | Satirical website with a stylish design. Optimised for accessibility and SEO using Lighthouse, uses Netlify forms to collect customer data. | Figma, React Three Fibre, React, Netlify, Tailwind.|
+| [**Streetwear Website**](https://streetware.netlify.app/) | Streetwear fashion website with a stylish design. Optimised for accessibility and SEO using Lighthouse, uses Netlify forms to collect customer data. | Figma, React Three Fibre, React, Netlify, Tailwind.|
 | [**Crypto Token Website**](https://frogbit.netlify.app/) | Website optimised for accessibility and SEO using Lighthouse. Wrote a smart contract to client specifications and deployed to the blockchain. | Figma, Solidity, React, Netlify, Tailwind.|
 | [**RecipEasy (Makers Final Project)**](https://github.com/kawrou/RecipEasy-recipe-manager) | Created a web app using Agile teams that takes a URL to a recipe and scrapes the recipe data from the  web page, this populates a recipe form in the app which can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
 | [**Mobile Acebook**](https://github.com/mattwsheps/swiftui-engineering-project) | Created a Facebook clone in an Agile team using SwiftUI, features include: create an account, create a post, upload and display a photo in the feed page.| Swift, SwiftUI, Cloudinary.|
