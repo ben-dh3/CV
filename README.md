@@ -78,7 +78,7 @@ I honed my ability to communicate technical ideas to the public while working as
 **Teamwork**
 
 
-During my time working in a cabinet making warehouse as part of the delivery team, I oversaw a changeover of staff and was responsible for organising a new multi-cultural team of freelancers and employees. I was a bridge of communication between the staff and the manager with whom I worked closely. Successfully contributed to positive team morale while working long days and 90 hour weeks. As a software engineer I use my teamwork skills while engaging in Agile methodologies and ceremonies to successfully plan and develop engineering projects to user specifications. I regularly apply pair programming where effective, to solve problems efficiently while supporting my peers.
+During my time working in a cabinet making warehouse as part of the delivery team, I oversaw a changeover of staff and was responsible for organising a new multicultural team of freelancers and employees. I was a bridge of communication between the staff and the manager with whom I worked closely. Successfully contributed to positive team morale while working long days and ninety hour weeks. As a software engineer I use my teamwork skills while engaging in Agile methodologies and ceremonies to successfully plan and develop engineering projects to user specifications. I regularly apply pair programming where effective, to solve problems efficiently while supporting my peers.
 
 
 **Problem Solving**
