@@ -97,10 +97,10 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 
 
 **Makers Academy** *(Oct 2023 - Mar 2024)*
-- Collaboratively planned SwiftUI views for a mobile Facebook clone on Figma, before creating an interactive application using Swift and SwiftUI in Agile teams.
 - Utilised test-driven development using Jest and React Testing Library when creating full-stack web applications with the MERN stack.
 - When working on engineering projects in Agile teams we utilised pair programming effectively by pairing individuals that had specialised on different layers of the project. For example, when building our recipe web scraping app, I had built the backend and paired with my teammate who had worked on the frontend, together we successfully connected the two.
-- In a solo project I created a 'penpal' social media app designed with a focus on bringing people together from around the world. I used test-driven development with Pytest and Playwright to create a web application using Peewee, PostgreSQL, and Python, before implementing CI/CD using Github actions.
+- Wrote clean, reusable code following object oriented programming principles throughout my projects
+- Introduced a leadership rotation in Agile teams ensuring that each team member was accountable for our work, and clarifying our Git workflow and communication. 
 
 **The Institute for Optimum Nutrition** *(Sep 2019 – Jun 2020)* 
 - Chemistry, Biology, Anatomy and Physiology
