@@ -9,6 +9,7 @@ Software Engineer and Makers Academy alumnus specialising in building full-stack
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**HomerBot AI Chatbot**](https://ai-homerbot.vercel.app/) | This is an AI chat bot using OpenAI's API; the AI model has been fine tuned with dialogue to respond like Homer Simpson. Website designed in Figma, with graphics made in Piskel, made using Next.js | Figma, React, Next.js, Tailwind, OpenAI API.|
 | [**Streetwear Website**](https://streetware.netlify.app/) | Streetwear fashion website with a stylish design. Optimised for accessibility and SEO using Lighthouse, uses Netlify forms to collect customer data. | Figma, React Three Fibre, React, Netlify, Tailwind.|
 | [**Crypto Token Website**](https://frogbit.netlify.app/) | Website optimised for accessibility and SEO using Lighthouse. Wrote a smart contract to client specifications and deployed to the blockchain. | Figma, Solidity, React, Netlify, Tailwind.|
 | [**RecipEasy (Makers Final Project)**](https://github.com/kawrou/RecipEasy-recipe-manager) | Created a web app using Agile teams that takes a URL to a recipe and scrapes the recipe data from the  web page, this populates a recipe form in the app which can be modified, saved, and stored. | MongoDB, Express.js, React, Node.js, Tailwind, Figma.|
