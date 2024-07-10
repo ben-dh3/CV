@@ -9,6 +9,7 @@ Software Engineer and Makers Academy alumnus specialising in building full-stack
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**Shopify ECommerce Art Store**](https://artbyben.netlify.app/) | Artist website created in Typescript/React, with Shopify buy functionality. Integrated CI/CD with Github Actions and used Netlify forms to collect customer queries. Motion graphics designed in Figma and created in After Effects. | Typescript, Vitest, Adobe After Effects, React, Tailwind, Figma.|
 | [**HomerBot AI Chatbot**](https://ai-homerbot.vercel.app/) | This is an AI chat bot using OpenAI's API; the AI model has been fine tuned with dialogue to respond like Homer Simpson. Website designed in Figma, with graphics made in Piskel, made using Next.js | Figma, React, Next.js, Tailwind, OpenAI API.|
 | [**Streetwear Website**](https://streetware.netlify.app/) | Streetwear fashion website with a stylish design. Optimised for accessibility and SEO using Lighthouse, uses Netlify forms to collect customer data. | Figma, React Three Fibre, React, Netlify, Tailwind.|
 | [**Crypto Token Website**](https://frogbit.netlify.app/) | Website optimised for accessibility and SEO using Lighthouse. Wrote a smart contract to client specifications and deployed to the blockchain. | Figma, Solidity, React, Netlify, Tailwind.|
