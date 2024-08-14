@@ -9,6 +9,7 @@ Software Engineer and Makers Academy alumnus specialising in building full-stack
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**Pokedex Android Mobile App**](https://bendhportfolio.netlify.app/pokedex) | The app has been created with React Native and is available to download for Android devices via the link. Graphics have been created in Illustrator and animated in After Effects. The search function uses the Poke API to populate the pokemon detail page. | React Native, Adobe Creative Suite, Expo, Figma, Tailwind.|
 | [**Three.js Portfolio Website**](https://bendhportfolio.netlify.app/) | Landing page model created in Blender and imported into Three.js to create motion graphics. Portfolio website designed in Figma and created in Typescript/React with Tailwind styling. | Figma, Three.js, React, Netlify, Tailwind, Typescript.|
 | [**Shopify ECommerce Art Store**](https://artbyben.netlify.app/) | Artist website created in Typescript/React, with Shopify buy functionality. Integrated CI/CD with Github Actions and used Netlify forms to collect customer queries. Motion graphics designed in Figma and created in After Effects. | Typescript, Vitest, Adobe After Effects, React, Tailwind, Figma.|
 | [**HomerBot AI Chatbot**](https://ai-homerbot.vercel.app/) | This is an AI chat bot using OpenAI's API; the AI model has been fine tuned with dialogue to respond like Homer Simpson. Website designed in Figma, with graphics made in Piskel, made using Next.js | Figma, React, Next.js, Tailwind, OpenAI API.|
@@ -33,14 +34,14 @@ Software Engineer and Makers Academy alumnus specialising in building full-stack
 ## Work Experience
 
 
-**Freelance Web Developer** *(Mar 2024 - Present)*
+**Freelance Web Developer** *(Mar 2024 - Jun 2024)*
 - React, Tailwind, Next.js, Netlify and Figma.
 - Designed websites on Figma to client specifications, taking into consideration UX design trends.
 - Deployed with continuous deployment on Netlify, I utilised Netlify forms to collect customer data for clients.
 - Wrote interactive smart contracts and created ERC-20 tokens on the Ethereum blockchain.
 
 
-**Code and Jobs, Freelance Technical Writer** *(Dec 2023 - Present)*
+**Code and Jobs, Freelance Technical Writer** *(Dec 2023 - Jun 2024)*
 - Created articles to assist software engineers in resolving technical challenges and participating in the tech community.
 - Researched and wrote about cutting-edge technologies like cryptocurrency, aiming to simplify complex ideas for both personal understanding and audience clarity.
 - Actively interacted with [Medium](https://medium.com/@benjaminduffield1997) and [Code & Jobs](https://www.codenjobs.com/blogs?username=ben) readers to foster connections within the tech field.
