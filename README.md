@@ -1,7 +1,7 @@
 ## Ben Duffield-Harding
 
 
-Software Engineer and Makers Academy alumnus specialising in building full-stack web applications with test-driven development, CI/CD and Agile methodologies. Coming from a background in customer service and personal training, I thrive when working in teams and have a strong ability to communicate technical ideas. I am currently seeking a permanent position which will allow me to further improve my Agile skills.
+Self-taught software developer and Makers Academy alumnus specialising in building great user experiences for full-stack web applications in Agile teams. Coming from a background in customer service and personal training, I thrive when working in teams and have a passion for creative problem-solving. I am currently seeking a permanent position which will allow me to further improve my technical skills.
 
 
 ## Projects
@@ -9,6 +9,7 @@ Software Engineer and Makers Academy alumnus specialising in building full-stack
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**Putney Web Designs Website**](https://putneywebdesigns.netlify.app/) | Single Page Web application made by following OOP principles using React and Tailwind. The website is fully responsive across devices. | React, Javascript, TailwindCSS, Figma.|
 | [**Chitter Social Media Website**](https://chitterapp.co.uk/) | Social media website built with Flask and PostgreSQL, with graphics made in Three.js and GLSL. Deployed on a virtual machine with Digital Ocean. | Flask, PostgreSQL, GLSL, Adobe Creative Suite, Figma, Three.js, Tailwind.|
 | [**BDH Art & Design Shopify ECommerce Store**](https://bdhartanddesign.netlify.app/) | Art & Design showcase utilising Shopify Integration, exploring graphic design principles - colour theory, layout design and typography. Utilised Netlify forms to collect customer queries. | GLSL, React Three Fibre, Adobe Creative Suite, React, Tailwind, Figma.|
 | [**Pokedex Android Mobile App**](https://bendhportfolio.netlify.app/pokedex) | The app has been created with React Native and is available to download for Android devices via the link. Graphics have been created in Illustrator and animated in After Effects. The search function uses the Poke API to populate the pokemon detail page. | React Native, Adobe Creative Suite, Expo, Figma, Tailwind.|
@@ -35,10 +36,11 @@ Software Engineer and Makers Academy alumnus specialising in building full-stack
 ## Work Experience
 
 
-**Freelance Web Developer** *(Mar 2024 - Jun 2024)*
+**Freelance Web Developer** *(Mar 2024 - present)*
 - React, Tailwind, Next.js, Netlify and Figma.
+- Wrote clean, reusable code following object oriented programming principles throughout my projects.
+- Deployed multiple websites to production with continuous deployment on Netlify. Deployed full stack web applications on a virtual machine with Digital Ocean.
 - Designed websites on Figma to client specifications, taking into consideration UX design trends.
-- Deployed with continuous deployment on Netlify, I utilised Netlify forms to collect customer data for clients.
 - Wrote interactive smart contracts and created ERC-20 tokens on the Ethereum blockchain.
 
 
@@ -108,6 +110,9 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 - Wrote clean, reusable code following object oriented programming principles throughout my projects
 - Introduced a leadership rotation in Agile teams ensuring that each team member was accountable for our work, and clarifying our Git workflow and communication. 
 
+**LearnWeb3 DAO** *(Jan 2023 - Feb 2023)* 
+- Ethereum Developer Degree
+
 **The Institute for Optimum Nutrition** *(Sep 2019 – Jun 2020)* 
 - Chemistry, Biology, Anatomy and Physiology
 - Distinction
@@ -119,7 +124,7 @@ As part of the management team at Waterstones Cafe I was responsible for delegat
 ## Hobbies
 
 
-🏃‍♂️ I like competing in running events. Most recently completing the Wolf Run, a 10km trail run over obstacles and through rivers. Next one is the Bournemouth half marathon in October.
+🏃‍♂️ I like competing in running events. Most recently completing the Wolf Run, a 10km trail run over obstacles and through rivers. Next one is the Stratford-Upon-Avon marathon in April.
 <br></br>
 🖌️ I love to express myself through my artwork. I paint with oils or watercolours - portraits, but also experimenting with effects created between oil and water. Fascinated by patterns found in nature, I have been experimenting with digital art - creating art with code written in P5.js, GLSL, Three.js, Blender.
 <br></br>
