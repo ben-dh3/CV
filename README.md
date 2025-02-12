@@ -9,6 +9,7 @@ Self-taught software developer and Makers Academy alumnus specialising in buildi
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**ElizaOS Zapper Plugin & AI Agent Development**](https://bendhportfolio.netlify.app/elizaos) | ElizaOS is a library for creating AI agents, that extend the abilities of an AI model to be able to perform specific tasks. I have contributed by creating a plugin for the Zapper API which allows users to view a formatted portfolio of given addresses or addresses attached to a Farcaster username. | AI Agent development, Discord bot development, Typescript.|
 | [**Putney Web Designs Website**](https://putneywebdesigns.netlify.app/) | Single Page Web application made by following OOP principles using React and Tailwind. The website is fully responsive across devices. | React, Javascript, TailwindCSS, Figma.|
 | [**Chitter Social Media Website**](https://chitterapp.co.uk/) | Social media website built with Flask and PostgreSQL, with graphics made in Three.js and GLSL. Deployed on a virtual machine with Digital Ocean. | Flask, PostgreSQL, GLSL, Adobe Creative Suite, Figma, Three.js, Tailwind.|
 | [**BDH Art & Design Shopify ECommerce Store**](https://bdhartanddesign.netlify.app/) | Art & Design showcase utilising Shopify Integration, exploring graphic design principles - colour theory, layout design and typography. Utilised Netlify forms to collect customer queries. | GLSL, React Three Fibre, Adobe Creative Suite, React, Tailwind, Figma.|
