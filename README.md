@@ -1,7 +1,7 @@
 ## Ben Duffield-Harding
 
 
-Self-taught software developer and Makers Academy alumnus specialising in building great user experiences for full-stack web applications in Agile teams. Coming from a background in customer service and personal training, I thrive when working in teams and have a passion for creative problem-solving. I am currently seeking a permanent position which will allow me to further improve my technical skills.
+Self-taught software developer and Makers Academy alumnus specialising in building great user experiences for full-stack web applications in Agile teams. My background in customer service and personal training has honed my problem-solving skills and ability to thrive in collaborative environments. I am currently seeking a permanent position that will allow me to further improve my AWS skills and contribute to innovative projects.
 
 
 ## Projects
@@ -9,6 +9,7 @@ Self-taught software developer and Makers Academy alumnus specialising in buildi
 
 | Name                        | Description       | Tech/tools        |
 | ----------------------------| ----------------- | ----------------- |
+| [**AWS AI Portfolio App**](https://master.d5ohu7yc8el7a.amplifyapp.com/) | Full-stack web application built with AWS. Uses Claude LLM to analyse news sentiment and crypto portfolio data, and generates suggestions for investment allocation. | AWS CDK, Lambda, API Gateway, DynamoDB, Typescript, React.|
 | [**ElizaOS Zapper Plugin & AI Agent Development**](https://bendhportfolio.netlify.app/elizaos) | ElizaOS is a library for creating AI agents that extend the abilities of an AI model to be able to perform specific tasks. I have contributed by creating a plugin for the Zapper API which allows users to view a formatted portfolio of given addresses or addresses attached to a Farcaster username. | AI Agent development, Discord bot development, Typescript.|
 | [**Putney Web Designs Website**](https://putneywebdesigns.netlify.app/) | Single Page Web application made by following OOP principles using React and Tailwind. The website is fully responsive across devices. | React, Javascript, TailwindCSS, Figma.|
 | [**Chitter Social Media Website**](https://chitterapp.co.uk/) | Social media website built with Flask and PostgreSQL, with graphics made in Three.js and GLSL. Deployed on a virtual machine with Digital Ocean. | Flask, PostgreSQL, GLSL, Adobe Creative Suite, Figma, Three.js, Tailwind.|
